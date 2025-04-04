@@ -11,4 +11,4 @@ Swift Lift Taxi company has collected historical data on taxi orders at airports
 **Tools Used:** matplotlib, plotly, statsmodels, pmdarima, scikit-learn
 
 **Files:**
-`taxi_orders_time_series` -- Project notebook
+`taxi_orders_time_series.ipynb` -- Project notebook
